@@ -29,4 +29,11 @@ Además, se debe tener en cuenta que la parte más vulnerable de cualquier siste
 
 >[!NOTE]
    >
-   >Para revisar la información de forma completa acceder a los siguientes links .
+   >Para revisar la información de forma completa acceder a los siguientes links:
+>
+>[ Presentación ]()
+>
+>[ Reporte del proyecto ]()
+>
+>[ Articulo ]()
+
