@@ -26,3 +26,7 @@ Durante este cuatrimestre se realizó la implementación del sector contable, pa
 Además, se debe tener en cuenta que la parte más vulnerable de cualquier sistema implementado es la seguridad, por ello actualizar constantemente con el fin de mejorar la seguridad da como resultado un mejor control en los accesos y modificaciones dentro de la base de datos.
 
 ![screen]( SacredHeart.png )
+
+>[!NOTE]
+   >
+   >Para revisar la información de forma completa acceder a los siguientes links .
