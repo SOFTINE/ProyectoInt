@@ -29,7 +29,7 @@ Además, se debe tener en cuenta que la parte más vulnerable de cualquier siste
 
 >[!NOTE]
    >
-   >Para revisar la información de forma completa acceder a los siguientes links:
+   >Para revisar la información de forma completa acceda a los siguientes enlaces:
 >
 >[ Presentación ]( https://github.com/SOFTINE/ProyectoInt/blob/84bc21ebc08f709410ec1b9b848008e06442de69/Presentacion_Integrador_8vo.-2.pdf )
 >
