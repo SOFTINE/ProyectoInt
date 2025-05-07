@@ -15,9 +15,6 @@
 ### Asesor:
 * Gallegos Galindo Juan Heriberto
 
-![screen]( ![Uploading image.png…]()
- )
-
 ## Resumen
 
 A lo largo de las dos entregas anteriores, se planteó el proyecto con base en las deficiencias que conlleva tener la administración de forma física dentro de Instituciones de salud.
@@ -27,3 +24,5 @@ Posteriormente, se trabajó con el desarrollo de un servidor que permite a los u
 
 Durante este cuatrimestre se realizó la implementación del sector contable, para poder completar la parte administrativa ofreciendo así un sistema más completo y eficiente.
 Además, se debe tener en cuenta que la parte más vulnerable de cualquier sistema implementado es la seguridad, por ello actualizar constantemente con el fin de mejorar la seguridad da como resultado un mejor control en los accesos y modificaciones dentro de la base de datos.
+
+![screen]( SacredHeart.png )
