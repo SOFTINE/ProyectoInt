@@ -31,9 +31,9 @@ Además, se debe tener en cuenta que la parte más vulnerable de cualquier siste
    >
    >Para revisar la información de forma completa acceder a los siguientes links:
 >
->[ Presentación ]()
+>[ Presentación ]( https://github.com/SOFTINE/ProyectoInt/blob/84bc21ebc08f709410ec1b9b848008e06442de69/Presentacion_Integrador_8vo.-2.pdf )
 >
->[ Reporte del proyecto ]()
+>[ Reporte del proyecto ]( https://github.com/SOFTINE/ProyectoInt/blob/84bc21ebc08f709410ec1b9b848008e06442de69/Proyecto%20Integrador%208vo%20-%20parcial%202.pdf )
 >
->[ Articulo ]()
+>[ Articulo ]( https://github.com/SOFTINE/ProyectoInt/blob/84bc21ebc08f709410ec1b9b848008e06442de69/Articulo_8vo.pdf )
 
